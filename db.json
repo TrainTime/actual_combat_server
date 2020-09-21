@@ -1,5 +1,183 @@
 {
   "goodsCategory": [
+		{
+		  "id": 1,
+		  "name": "服装",
+		  "level": "一级",
+		  "num": 99,
+		  "unit": "件",
+		  "one": "1",
+		  "nav": true,
+		  "show": true,
+		  "sec": [
+		    {
+		      "id": 7,
+		      "postId": 1,
+		      "name": "外套",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 8,
+		      "postId": 1,
+		      "name": "T恤",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 9,
+		      "postId": 1,
+		      "name": "休闲裤",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 10,
+		      "postId": 1,
+		      "name": "牛仔裤",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 11,
+		      "postId": 1,
+		      "name": "衬衫",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 29,
+		      "postId": 1,
+		      "name": "男鞋",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 28,
+		      "postId": 1,
+		      "name": "女鞋",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    }
+		  ]
+		},
+		{
+		  "id": 2,
+		  "name": "手机数码",
+		  "level": "一级",
+		  "num": 100,
+		  "unit": "件",
+		  "one": "1",
+		  "nav": true,
+		  "show": true,
+		  "sec": [
+		    {
+		      "id": 19,
+		      "postId": 2,
+		      "name": "手机通讯",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 30,
+		      "postId": 2,
+		      "name": "手机配件",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 31,
+		      "postId": 2,
+		      "name": "摄影摄像",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 32,
+		      "postId": 2,
+		      "name": "影音娱乐",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 33,
+		      "postId": 2,
+		      "name": "数码配件",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    },
+		    {
+		      "id": 34,
+		      "postId": 2,
+		      "name": "智能设备",
+		      "level": "二级",
+		      "num": 100,
+		      "unit": "件",
+		      "one": "0",
+		      "nav": true,
+		      "show": true
+		    }
+		  ]
+		},
+		{
+		  "id": 3,
+		  "name": "家用电器",
+		  "level": "一级",
+		  "num": 100,
+		  "unit": "件",
+		  "one": "1",
+		  "nav": true,
+		  "show": true,
+		  "sec": []
+		},
     {
       "id": 4,
       "name": "家具家装",
@@ -490,6 +668,27 @@
     }
   ],
   "returnApply": [
+		{
+		  "id": 1,
+		  "reason": "质量问题",
+		  "sort": 1,
+		  "time": "2018-10-17 10:00:45",
+		  "isplay": true
+		},
+		{
+		  "id": 2,
+		  "reason": "尺码太大",
+		  "sort": 1,
+		  "time": "2018-10-17 10:01:15",
+		  "isplay": true
+		},
+		{
+		  "id": 3,
+		  "reason": "颜色不喜欢",
+		  "sort": 1,
+		  "time": "2018-10-17 10:01:42",
+		  "isplay": true
+		},
     {
       "id": 4,
       "reason": "7天无理由退货",
