@@ -1,0 +1,1337 @@
+{
+  "goods": {
+    "category": [
+      {
+        "id": 4,
+        "name": "家具家装",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": []
+      },
+      {
+        "id": 5,
+        "name": "汽车用品",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": []
+      },
+      {
+        "id": 6,
+        "name": "服装",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": [
+          {
+            "id": 7,
+            "postId": 1,
+            "name": "外套",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 8,
+            "postId": 1,
+            "name": "T恤",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 9,
+            "postId": 1,
+            "name": "休闲裤",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 10,
+            "postId": 1,
+            "name": "牛仔裤",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 11,
+            "postId": 1,
+            "name": "衬衫",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 29,
+            "postId": 1,
+            "name": "男鞋",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 28,
+            "postId": 1,
+            "name": "女鞋",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "手机数码",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": [
+          {
+            "id": 19,
+            "postId": 2,
+            "name": "手机通讯",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 30,
+            "postId": 2,
+            "name": "手机配件",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 31,
+            "postId": 2,
+            "name": "摄影摄像",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 32,
+            "postId": 2,
+            "name": "影音娱乐",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 33,
+            "postId": 2,
+            "name": "数码配件",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          },
+          {
+            "id": 34,
+            "postId": 2,
+            "name": "智能设备",
+            "level": "二级",
+            "num": 100,
+            "unit": "件",
+            "one": "0",
+            "nav": true,
+            "show": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "家用电器",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": []
+      },
+      {
+        "id": 9,
+        "name": "家具家装",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": []
+      },
+      {
+        "id": 10,
+        "name": "汽车用品",
+        "level": "一级",
+        "num": 100,
+        "unit": "件",
+        "one": "1",
+        "nav": true,
+        "show": true,
+        "sec": []
+      }
+    ],
+    "goodsType": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 5,
+        "totalPage": 2,
+        "total": 8,
+        "list": [
+          {
+            "id": 1,
+            "name": "服装-T恤",
+            "attributeCount": 2,
+            "paramCount": 5
+          },
+          {
+            "id": 2,
+            "name": "服装-裤装",
+            "attributeCount": 2,
+            "paramCount": 4
+          },
+          {
+            "id": 3,
+            "name": "手机数码-手机通讯",
+            "attributeCount": 2,
+            "paramCount": 4
+          },
+          {
+            "id": 4,
+            "name": "配件",
+            "attributeCount": 0,
+            "paramCount": 0
+          },
+          {
+            "id": 5,
+            "name": "居家",
+            "attributeCount": 0,
+            "paramCount": 0
+          }
+        ]
+      }
+    },
+    "attrList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 5,
+        "totalPage": 1,
+        "total": 2,
+        "list": [
+          {
+            "id": 7,
+            "productAttributeCategoryId": 1,
+            "name": "颜色",
+            "selectType": "唯一",
+            "inputType": 1,
+            "inputList": "黑色,红色,白色,粉色",
+            "sort": 100,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": "服装-裤装"
+          },
+          {
+            "id": 1,
+            "productAttributeCategoryId": 1,
+            "name": "尺寸",
+            "selectType": "唯一",
+            "inputType": 1,
+            "inputList": "M,X,XL,2XL,3XL,4XL",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "从列表中选取",
+            "type": "服装-裤装"
+          }
+        ]
+      }
+    },
+    "paramList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 5,
+        "totalPage": 1,
+        "total": 5,
+        "list": [
+          {
+            "id": 24,
+            "productAttributeCategoryId": 1,
+            "name": "商品编号",
+            "selectType": "单选",
+            "inputType": 0,
+            "inputList": "",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": 1
+          },
+          {
+            "id": 25,
+            "productAttributeCategoryId": 1,
+            "name": "适用季节",
+            "selectType": "单选",
+            "inputType": 1,
+            "inputList": "春季,夏季,秋季,冬季",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": 1
+          },
+          {
+            "id": 37,
+            "productAttributeCategoryId": 1,
+            "name": "适用人群",
+            "selectType": "单选",
+            "inputType": 1,
+            "inputList": "儿童,青年,中年,老年",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": 1
+          },
+          {
+            "id": 38,
+            "productAttributeCategoryId": 1,
+            "name": "上市时间",
+            "selectType": "单选",
+            "inputType": 1,
+            "inputList": "2017年秋,2017年冬,2018年春,2018年夏",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": 1
+          },
+          {
+            "id": 39,
+            "productAttributeCategoryId": 1,
+            "name": "袖长",
+            "selectType": "单选",
+            "inputType": 1,
+            "inputList": "短袖,长袖,中袖",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": "手工录入",
+            "type": 1
+          }
+        ]
+      }
+    },
+    "trademarkList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "total": 11,
+        "list": [
+          {
+            "id": 6,
+            "name": "小米",
+            "firstLetter": "M",
+            "sort": 500,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180518/5a912944N474afb7a.png",
+            "bigPic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180518/5afd7778Nf7800b75.jpg",
+            "brandStory": null
+          },
+          {
+            "id": 49,
+            "name": "七匹狼",
+            "firstLetter": "S",
+            "sort": 200,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 77,
+            "productCommentCount": 400,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180518/1522738681.jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 50,
+            "name": "海澜之家",
+            "firstLetter": "H",
+            "sort": 200,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 66,
+            "productCommentCount": 300,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/LOGO1024.png",
+            "bigPic": "",
+            "brandStory": null
+          },
+          {
+            "id": 51,
+            "name": "苹果",
+            "firstLetter": "A",
+            "sort": 200,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 55,
+            "productCommentCount": 200,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg.jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 2,
+            "name": "三星",
+            "firstLetter": "S",
+            "sort": 100,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg (1).jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 3,
+            "name": "华为",
+            "firstLetter": "H",
+            "sort": 100,
+            "factoryStatus": 1,
+            "showStatus": 0,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg (2).jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 4,
+            "name": "格力",
+            "firstLetter": "G",
+            "sort": 30,
+            "factoryStatus": 1,
+            "showStatus": 0,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg (3).jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 5,
+            "name": "方太",
+            "firstLetter": "F",
+            "sort": 20,
+            "factoryStatus": 1,
+            "showStatus": 0,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg (4).jpg",
+            "bigPic": null,
+            "brandStory": null
+          },
+          {
+            "id": 1,
+            "name": "万和",
+            "firstLetter": "W",
+            "sort": 0,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg(5).jpg",
+            "bigPic": "",
+            "brandStory": null
+          },
+          {
+            "id": 21,
+            "name": "OPPO",
+            "firstLetter": "O",
+            "sort": 0,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 88,
+            "productCommentCount": 500,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg(6).jpg",
+            "bigPic": "",
+            "brandStory": null
+          }
+        ]
+      }
+    }
+  },
+  "order": {
+    "returnApply": [
+      {
+        "id": 4,
+        "reason": "7天无理由退货",
+        "sort": 1,
+        "time": "2018-10-17 10:02:05",
+        "isplay": true
+      },
+      {
+        "id": 5,
+        "reason": "价格问题",
+        "sort": 1,
+        "time": "2018-10-17 10:02:57",
+        "isplay": true
+      },
+      {
+        "id": 6,
+        "reason": "发票问题",
+        "sort": 0,
+        "time": "2018-10-19 16:28:36",
+        "isplay": true
+      },
+      {
+        "id": 7,
+        "reason": "其他问题",
+        "sort": 0,
+        "time": "2018-10-19 16:28:58",
+        "isplay": true
+      },
+      {
+        "id": 8,
+        "reason": "物流问题",
+        "sort": 0,
+        "time": "2018-10-19 16:29:06",
+        "isplay": true
+      },
+      {
+        "id": 9,
+        "reason": "售后问题",
+        "sort": 0,
+        "time": "2018-10-19 16:29:44",
+        "isplay": true
+      }
+    ]
+  },
+  "market": {},
+  "limit": {
+    "treeList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": [
+        {
+          "id": 1,
+          "parentId": 0,
+          "createTime": "2020-02-02T06:50:36.000+0000",
+          "title": "商品",
+          "level": 0,
+          "sort": 0,
+          "name": "goods",
+          "icon": "product",
+          "hidden": 0,
+          "children": [
+            {
+              "id": 2,
+              "parentId": 1,
+              "createTime": "2020-02-02T06:51:50.000+0000",
+              "title": "商品列表",
+              "level": 1,
+              "sort": 0,
+              "name": "list",
+              "icon": "product-list",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 3,
+              "parentId": 1,
+              "createTime": "2020-02-02T06:52:44.000+0000",
+              "title": "添加商品",
+              "level": 1,
+              "sort": 0,
+              "name": "add",
+              "icon": "product-add",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 4,
+              "parentId": 1,
+              "createTime": "2020-02-02T06:53:51.000+0000",
+              "title": "商品分类",
+              "level": 1,
+              "sort": 0,
+              "name": "category",
+              "icon": "product-cate",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 5,
+              "parentId": 1,
+              "createTime": "2020-02-02T06:54:51.000+0000",
+              "title": "商品类型",
+              "level": 1,
+              "sort": 0,
+              "name": "type",
+              "icon": "product-attr",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 6,
+              "parentId": 1,
+              "createTime": "2020-02-02T06:56:29.000+0000",
+              "title": "品牌管理",
+              "level": 1,
+              "sort": 0,
+              "name": "admin",
+              "icon": "product-brand",
+              "hidden": 0,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "parentId": 0,
+          "createTime": "2020-02-02T08:54:07.000+0000",
+          "title": "订单",
+          "level": 0,
+          "sort": 0,
+          "name": "oms",
+          "icon": "order",
+          "hidden": 0,
+          "children": [
+            {
+              "id": 8,
+              "parentId": 7,
+              "createTime": "2020-02-02T08:55:18.000+0000",
+              "title": "订单列表",
+              "level": 1,
+              "sort": 0,
+              "name": "order",
+              "icon": "product-list",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 9,
+              "parentId": 7,
+              "createTime": "2020-02-02T08:56:46.000+0000",
+              "title": "订单设置",
+              "level": 1,
+              "sort": 0,
+              "name": "orderSetting",
+              "icon": "order-setting",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 10,
+              "parentId": 7,
+              "createTime": "2020-02-02T08:57:39.000+0000",
+              "title": "退货申请处理",
+              "level": 1,
+              "sort": 0,
+              "name": "returnApply",
+              "icon": "order-return",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 11,
+              "parentId": 7,
+              "createTime": "2020-02-02T08:59:40.000+0000",
+              "title": "退货原因设置",
+              "level": 1,
+              "sort": 0,
+              "name": "returnReason",
+              "icon": "order-return-reason",
+              "hidden": 0,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "parentId": 0,
+          "createTime": "2020-02-04T08:18:00.000+0000",
+          "title": "营销",
+          "level": 0,
+          "sort": 0,
+          "name": "sms",
+          "icon": "sms",
+          "hidden": 0,
+          "children": [
+            {
+              "id": 13,
+              "parentId": 12,
+              "createTime": "2020-02-04T08:19:22.000+0000",
+              "title": "秒杀活动列表",
+              "level": 1,
+              "sort": 0,
+              "name": "flash",
+              "icon": "sms-flash",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 14,
+              "parentId": 12,
+              "createTime": "2020-02-04T08:20:16.000+0000",
+              "title": "优惠券列表",
+              "level": 1,
+              "sort": 0,
+              "name": "coupon",
+              "icon": "sms-coupon",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 16,
+              "parentId": 12,
+              "createTime": "2020-02-07T08:22:38.000+0000",
+              "title": "品牌推荐",
+              "level": 1,
+              "sort": 0,
+              "name": "homeBrand",
+              "icon": "product-brand",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 17,
+              "parentId": 12,
+              "createTime": "2020-02-07T08:23:14.000+0000",
+              "title": "新品推荐",
+              "level": 1,
+              "sort": 0,
+              "name": "homeNew",
+              "icon": "sms-new",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 18,
+              "parentId": 12,
+              "createTime": "2020-02-07T08:26:38.000+0000",
+              "title": "人气推荐",
+              "level": 1,
+              "sort": 0,
+              "name": "homeHot",
+              "icon": "sms-hot",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 19,
+              "parentId": 12,
+              "createTime": "2020-02-07T08:28:16.000+0000",
+              "title": "专题推荐",
+              "level": 1,
+              "sort": 0,
+              "name": "homeSubject",
+              "icon": "sms-subject",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 20,
+              "parentId": 12,
+              "createTime": "2020-02-07T08:28:42.000+0000",
+              "title": "广告列表",
+              "level": 1,
+              "sort": 0,
+              "name": "homeAdvertise",
+              "icon": "sms-ad",
+              "hidden": 0,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "parentId": 0,
+          "createTime": "2020-02-07T08:29:13.000+0000",
+          "title": "权限",
+          "level": 0,
+          "sort": 0,
+          "name": "ums",
+          "icon": "ums",
+          "hidden": 0,
+          "children": [
+            {
+              "id": 22,
+              "parentId": 21,
+              "createTime": "2020-02-07T08:29:51.000+0000",
+              "title": "用户列表",
+              "level": 1,
+              "sort": 0,
+              "name": "admin",
+              "icon": "ums-admin",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 23,
+              "parentId": 21,
+              "createTime": "2020-02-07T08:30:13.000+0000",
+              "title": "角色列表",
+              "level": 1,
+              "sort": 0,
+              "name": "role",
+              "icon": "ums-role",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 24,
+              "parentId": 21,
+              "createTime": "2020-02-07T08:30:53.000+0000",
+              "title": "菜单列表",
+              "level": 1,
+              "sort": 0,
+              "name": "menu",
+              "icon": "ums-menu",
+              "hidden": 0,
+              "children": [
+
+              ]
+            },
+            {
+              "id": 25,
+              "parentId": 21,
+              "createTime": "2020-02-07T08:31:13.000+0000",
+              "title": "资源列表",
+              "level": 1,
+              "sort": 0,
+              "name": "resource",
+              "icon": "ums-resource",
+              "hidden": 0,
+              "children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "roleList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 5,
+        "totalPage": 1,
+        "total": 3,
+        "list": [
+          {
+            "id": 1,
+            "name": "商品管理员",
+            "description": "只能查看及操作商品",
+            "adminCount": 0,
+            "createTime": "2020-02-03T08:50:37.000+0000",
+            "status": 1,
+            "sort": 0
+          },
+          {
+            "id": 2,
+            "name": "订单管理员",
+            "description": "只能查看及操作订单",
+            "adminCount": 0,
+            "createTime": "2018-09-30T07:53:45.000+0000",
+            "status": 1,
+            "sort": 0
+          },
+          {
+            "id": 5,
+            "name": "超级管理员",
+            "description": "拥有所有查看和操作功能",
+            "adminCount": 0,
+            "createTime": "2020-02-02T07:11:05.000+0000",
+            "status": 1,
+            "sort": 0
+          }
+        ]
+      }
+    },
+    "roleMenu": {
+      "code": 200,
+      "message": "操作成功",
+      "data": [
+        {
+          "id": 1,
+          "name": "商品管理员",
+          "description": "只能查看及操作商品",
+          "adminCount": 0,
+          "createTime": "2020-02-03T08:50:37.000+0000",
+          "status": 1,
+          "sort": 0
+        },
+        {
+          "id": 2,
+          "name": "订单管理员",
+          "description": "只能查看及操作订单",
+          "adminCount": 0,
+          "createTime": "2018-09-30T07:53:45.000+0000",
+          "status": 1,
+          "sort": 0
+        },
+        {
+          "id": 5,
+          "name": "超级管理员",
+          "description": "拥有所有查看和操作功能",
+          "adminCount": 0,
+          "createTime": "2020-02-02T07:11:05.000+0000",
+          "status": 1,
+          "sort": 0
+        }
+      ]
+    },
+    "userList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "total": 5,
+        "list": [
+          {
+            "id": 1,
+            "username": "test",
+            "password": "$2a$10$NZ5o7r2E.ayT2ZoxgjlI.eJ6OEYqjH7INR/F.mXDbjZJi9HF0YCVG",
+            "icon": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg.jpg",
+            "email": "test@qq.com",
+            "nickName": "测试账号",
+            "note": null,
+            "createTime": "2018-09-29T05:55:30.000+0000",
+            "loginTime": "2018-09-29T05:55:39.000+0000",
+            "status": true
+          },
+          {
+            "id": 3,
+            "username": "admin",
+            "password": "$2a$10$.E1FokumK5GIXWgKlg.Hc.i/0/2.qdAwYFL1zc5QHdyzpXOr38RZO",
+            "icon": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180607/timg.jpg",
+            "email": "admin@163.com",
+            "nickName": "系统管理员",
+            "note": "系统管理员",
+            "createTime": "2018-10-08T05:32:47.000+0000",
+            "loginTime": "2019-04-20T04:45:16.000+0000",
+            "status": true
+          },
+          {
+            "id": 4,
+            "username": "macro",
+            "password": "$2a$10$Bx4jZPR7GhEpIQfefDQtVeS58GfT5n6mxs/b4nLLK65eMFa16topa",
+            "icon": "string",
+            "email": "macro@qq.com",
+            "nickName": "macro",
+            "note": "macro专用",
+            "createTime": "2019-10-06T07:53:51.000+0000",
+            "loginTime": "2020-02-03T06:55:55.000+0000",
+            "status": true
+          },
+          {
+            "id": 6,
+            "username": "productAdmin",
+            "password": "$2a$10$6/.J.p.6Bhn7ic4GfoB5D.pGd7xSiD1a9M6ht6yO0fxzlKJPjRAGm",
+            "icon": null,
+            "email": "product@qq.com",
+            "nickName": "商品管理员",
+            "note": "只有商品权限",
+            "createTime": "2020-02-07T08:15:08.000+0000",
+            "loginTime": null,
+            "status": true
+          },
+          {
+            "id": 7,
+            "username": "orderAdmin",
+            "password": "$2a$10$UqEhA9UZXjHHA3B.L9wNG.6aerrBjC6WHTtbv1FdvYPUI.7lkL6E.",
+            "icon": null,
+            "email": "order@qq.com",
+            "nickName": "订单管理员",
+            "note": "只有订单管理权限",
+            "createTime": "2020-02-07T08:15:50.000+0000",
+            "loginTime": null,
+            "status": true
+          }
+        ]
+      }
+    },
+    "menuList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 5,
+        "totalPage": 1,
+        "total": 4,
+        "list": [
+          {
+            "id": 1,
+            "parentId": 0,
+            "createTime": "2020-02-02T06:50:36.000+0000",
+            "title": "商品",
+            "level": 0,
+            "sort": 0,
+            "name": "goods",
+            "icon": "product",
+            "hidden": 0
+          },
+          {
+            "id": 7,
+            "parentId": 0,
+            "createTime": "2020-02-02T08:54:07.000+0000",
+            "title": "订单",
+            "level": 0,
+            "sort": 0,
+            "name": "oms",
+            "icon": "order",
+            "hidden": 0
+          },
+          {
+            "id": 12,
+            "parentId": 0,
+            "createTime": "2020-02-04T08:18:00.000+0000",
+            "title": "营销",
+            "level": 0,
+            "sort": 0,
+            "name": "sms",
+            "icon": "sms",
+            "hidden": 0
+          },
+          {
+            "id": 21,
+            "parentId": 0,
+            "createTime": "2020-02-07T08:29:13.000+0000",
+            "title": "权限",
+            "level": 0,
+            "sort": 0,
+            "name": "ums",
+            "icon": "ums",
+            "hidden": 0
+          }
+        ]
+      }
+    },
+    "resourceList": {
+      "code": 200,
+      "message": "操作成功",
+      "data": {
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 3,
+        "total": 28,
+        "list": [
+          {
+            "id": 1,
+            "createTime": "2020-02-04T09:04:55.000+0000",
+            "name": "商品品牌管理",
+            "url": "/brand/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 2,
+            "createTime": "2020-02-04T09:05:35.000+0000",
+            "name": "商品属性分类管理",
+            "url": "/productAttribute/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 3,
+            "createTime": "2020-02-04T09:06:13.000+0000",
+            "name": "商品属性管理",
+            "url": "/productAttribute/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 4,
+            "createTime": "2020-02-04T09:07:15.000+0000",
+            "name": "商品分类管理",
+            "url": "/productCategory/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 5,
+            "createTime": "2020-02-04T09:09:16.000+0000",
+            "name": "商品管理",
+            "url": "/product/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 6,
+            "createTime": "2020-02-04T09:09:53.000+0000",
+            "name": "商品库存管理",
+            "url": "/sku/**",
+            "description": null,
+            "categoryId": 1
+          },
+          {
+            "id": 8,
+            "createTime": "2020-02-05T06:43:37.000+0000",
+            "name": "订单管理",
+            "url": "/order/**",
+            "description": "",
+            "categoryId": 2
+          },
+          {
+            "id": 9,
+            "createTime": "2020-02-05T06:44:22.000+0000",
+            "name": " 订单退货申请管理",
+            "url": "/returnApply/**",
+            "description": "",
+            "categoryId": 2
+          },
+          {
+            "id": 10,
+            "createTime": "2020-02-05T06:45:08.000+0000",
+            "name": "退货原因管理",
+            "url": "/returnReason/**",
+            "description": "",
+            "categoryId": 2
+          },
+          {
+            "id": 11,
+            "createTime": "2020-02-05T06:45:43.000+0000",
+            "name": "订单设置管理",
+            "url": "/orderSetting/**",
+            "description": "",
+            "categoryId": 2
+          }
+        ]
+      }
+    },
+    "resourceCategory": {
+      "code": 200,
+      "message": "操作成功",
+      "data": [
+        {
+          "id": 1,
+          "createTime": "2020-02-05T02:21:44.000+0000",
+          "name": "商品模块",
+          "sort": 0
+        },
+        {
+          "id": 2,
+          "createTime": "2020-02-05T02:22:34.000+0000",
+          "name": "订单模块",
+          "sort": 0
+        },
+        {
+          "id": 3,
+          "createTime": "2020-02-05T02:22:48.000+0000",
+          "name": "营销模块",
+          "sort": 0
+        },
+        {
+          "id": 4,
+          "createTime": "2020-02-05T02:23:04.000+0000",
+          "name": "权限模块",
+          "sort": 0
+        },
+        {
+          "id": 5,
+          "createTime": "2020-02-07T08:34:27.000+0000",
+          "name": "内容模块",
+          "sort": 0
+        },
+        {
+          "id": 6,
+          "createTime": "2020-02-07T08:35:49.000+0000",
+          "name": "其他模块",
+          "sort": 0
+        }
+      ]
+    }
+  },
+  "routingList": [
+    {
+      "name": "商品列表",
+      "link": "/goods/list"
+    },
+    {
+      "name": "添加商品",
+      "link": "/goods/add"
+    },
+    {
+      "name": "商品分类",
+      "link": "/goods/category"
+    },
+    {
+      "name": "商品类型",
+      "link": "/goods/type"
+    },
+    {
+      "name": "品牌管理",
+      "link": "/goods/admin"
+    },
+    {
+      "name": "订单列表",
+      "link": "/oms/order"
+    },
+    {
+      "name": "订单设置",
+      "link": "/oms/orderSetting"
+    },
+    {
+      "name": "退货申请处理",
+      "link": "/oms/returnApply"
+    },
+    {
+      "name": "退货原因设置",
+      "link": "/oms/returnReason"
+    },
+    {
+      "name": "秒杀活动列表",
+      "link": "/sms/flash"
+    },
+    {
+      "name": "优惠券列表",
+      "link": "/sms/coupon"
+    },
+    {
+      "name": "品牌推荐",
+      "link": "/sms/homeBrand"
+    },
+    {
+      "name": "新品推荐",
+      "link": "/sms/homeNew"
+    },
+    {
+      "name": "人气推荐",
+      "link": "/sms/homeHot"
+    },
+    {
+      "name": "专题推荐",
+      "link": "/sms/homeSubject"
+    },
+    {
+      "name": "广告列表",
+      "link": "/sms/homeAdvertise"
+    },
+    {
+      "name": "用户列表",
+      "link": "/ums/admin"
+    },
+    {
+      "name": "角色列表",
+      "link": "/ums/role"
+    },
+    {
+      "name": "菜单列表",
+      "link": "/ums/menu"
+    },
+    {
+      "name": "资源列表",
+      "link": "/ums/resource"
+    }
+  ]
+}
