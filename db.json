@@ -535,195 +535,181 @@
   ],
   "treeList": [
     {
-      "id": 1,
+      "id": 2,
       "parentId": 0,
       "createTime": "2020-02-02T06:50:36.000+0000",
       "title": "商品",
+      "key": "商品",
       "level": 0,
       "sort": 0,
       "name": "goods",
-      "icon": "product",
+      "icon": "shopping",
       "hidden": 0,
       "children": [
         {
-          "id": 2,
+          "id": 3,
           "parentId": 1,
           "createTime": "2020-02-02T06:51:50.000+0000",
           "title": "商品列表",
+          "key": "商品列表",
           "level": 1,
           "sort": 0,
           "name": "list",
-          "icon": "product-list",
+          "icon": "align-left",
           "hidden": 0,
-          "children": [
-
-          ]
-        },
-        {
-          "id": 3,
-          "parentId": 1,
-          "createTime": "2020-02-02T06:52:44.000+0000",
-          "title": "添加商品",
-          "level": 1,
-          "sort": 0,
-          "name": "add",
-          "icon": "product-add",
-          "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 4,
           "parentId": 1,
-          "createTime": "2020-02-02T06:53:51.000+0000",
-          "title": "商品分类",
+          "createTime": "2020-02-02T06:52:44.000+0000",
+          "title": "添加商品",
+          "key": "添加商品",
           "level": 1,
           "sort": 0,
-          "name": "category",
-          "icon": "product-cate",
+          "name": "add",
+          "icon": "plus-circle",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 5,
           "parentId": 1,
-          "createTime": "2020-02-02T06:54:51.000+0000",
-          "title": "商品类型",
+          "createTime": "2020-02-02T06:53:51.000+0000",
+          "title": "商品分类",
+          "key": "商品分类",
           "level": 1,
           "sort": 0,
-          "name": "type",
-          "icon": "product-attr",
+          "name": "category",
+          "icon": "unordered-list",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 6,
           "parentId": 1,
+          "createTime": "2020-02-02T06:54:51.000+0000",
+          "title": "商品类型",
+          "key": "商品类型",
+          "level": 1,
+          "sort": 0,
+          "name": "type",
+          "icon": "appstore",
+          "hidden": 0,
+          "children": []
+        },
+        {
+          "id": 7,
+          "parentId": 1,
           "createTime": "2020-02-02T06:56:29.000+0000",
           "title": "品牌管理",
+          "key": "品牌管理",
           "level": 1,
           "sort": 0,
           "name": "admin",
-          "icon": "product-brand",
+          "icon": "property-safety",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         }
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "parentId": 0,
       "createTime": "2020-02-02T08:54:07.000+0000",
       "title": "订单",
+      "key": "订单",
       "level": 0,
       "sort": 0,
       "name": "oms",
-      "icon": "order",
+      "icon": "account-book",
       "hidden": 0,
       "children": [
         {
-          "id": 8,
+          "id": 9,
           "parentId": 7,
           "createTime": "2020-02-02T08:55:18.000+0000",
           "title": "订单列表",
           "level": 1,
           "sort": 0,
           "name": "order",
-          "icon": "product-list",
+          "icon": "container",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
-          "id": 9,
+          "id": 10,
           "parentId": 7,
           "createTime": "2020-02-02T08:56:46.000+0000",
           "title": "订单设置",
           "level": 1,
           "sort": 0,
           "name": "orderSetting",
-          "icon": "order-setting",
+          "icon": "setting",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
-          "id": 10,
+          "id": 11,
           "parentId": 7,
           "createTime": "2020-02-02T08:57:39.000+0000",
           "title": "退货申请处理",
           "level": 1,
           "sort": 0,
           "name": "returnApply",
-          "icon": "order-return",
+          "icon": "phone",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
-          "id": 11,
+          "id": 12,
           "parentId": 7,
           "createTime": "2020-02-02T08:59:40.000+0000",
           "title": "退货原因设置",
           "level": 1,
           "sort": 0,
           "name": "returnReason",
-          "icon": "order-return-reason",
+          "icon": "mail",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         }
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "parentId": 0,
       "createTime": "2020-02-04T08:18:00.000+0000",
       "title": "营销",
+      "key": "营销",
       "level": 0,
       "sort": 0,
       "name": "sms",
-      "icon": "sms",
+      "icon": "api",
       "hidden": 0,
       "children": [
         {
-          "id": 13,
+          "id": 14,
           "parentId": 12,
           "createTime": "2020-02-04T08:19:22.000+0000",
           "title": "秒杀活动列表",
           "level": 1,
           "sort": 0,
           "name": "flash",
-          "icon": "sms-flash",
+          "icon": "alert",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
-          "id": 14,
+          "id": 15,
           "parentId": 12,
           "createTime": "2020-02-04T08:20:16.000+0000",
           "title": "优惠券列表",
           "level": 1,
           "sort": 0,
           "name": "coupon",
-          "icon": "sms-coupon",
+          "icon": "sketch",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 16,
@@ -733,11 +719,9 @@
           "level": 1,
           "sort": 0,
           "name": "homeBrand",
-          "icon": "product-brand",
+          "icon": "bulb",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 17,
@@ -747,11 +731,9 @@
           "level": 1,
           "sort": 0,
           "name": "homeNew",
-          "icon": "sms-new",
+          "icon": "filter",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 18,
@@ -761,11 +743,9 @@
           "level": 1,
           "sort": 0,
           "name": "homeHot",
-          "icon": "sms-hot",
+          "icon": "fire",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 19,
@@ -775,11 +755,9 @@
           "level": 1,
           "sort": 0,
           "name": "homeSubject",
-          "icon": "sms-subject",
+          "icon": "frown",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 20,
@@ -789,11 +767,9 @@
           "level": 1,
           "sort": 0,
           "name": "homeAdvertise",
-          "icon": "sms-ad",
+          "icon": "meh",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         }
       ]
     },
@@ -802,10 +778,11 @@
       "parentId": 0,
       "createTime": "2020-02-07T08:29:13.000+0000",
       "title": "权限",
+      "key": "权限",
       "level": 0,
       "sort": 0,
       "name": "ums",
-      "icon": "ums",
+      "icon": "eye-invisible",
       "hidden": 0,
       "children": [
         {
@@ -816,11 +793,9 @@
           "level": 1,
           "sort": 0,
           "name": "admin",
-          "icon": "ums-admin",
+          "icon": "bars",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 23,
@@ -830,11 +805,9 @@
           "level": 1,
           "sort": 0,
           "name": "role",
-          "icon": "ums-role",
+          "icon": "usergroup-add",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 24,
@@ -844,11 +817,9 @@
           "level": 1,
           "sort": 0,
           "name": "menu",
-          "icon": "ums-menu",
+          "icon": "file-protect",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         },
         {
           "id": 25,
@@ -858,11 +829,9 @@
           "level": 1,
           "sort": 0,
           "name": "resource",
-          "icon": "ums-resource",
+          "icon": "euro",
           "hidden": 0,
-          "children": [
-
-          ]
+          "children": []
         }
       ]
     }
@@ -1157,7 +1126,8 @@
     {
       "id": 1,
       "name": "商品列表",
-      "link": "/goods/list"
+      "link": "/goods/list",
+      "status": true
     },
     {
       "id": 2,
@@ -1253,6 +1223,20 @@
       "id": 20,
       "name": "资源列表",
       "link": "/ums/resource"
+    }
+  ],
+  "loginUser": [
+    {
+      "id": 1001,
+      "username": "admin",
+      "password": "123456",
+      "token": "a3r24o32j4234o234j"
+    },
+    {
+      "id": 1010,
+      "username": "test",
+      "password": "123456",
+      "token": "f234hk23k2j3424jo23"
     }
   ],
   "test": []
